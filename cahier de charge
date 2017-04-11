@@ -1,5 +1,12 @@
 CAHIER DE CHARGE DU PROJET DE DEVELOPPEMENT D’UNE PLATEFORME D4ELECTION EN LIGNE.
+
 1.	Introduction
 Le problème d’élection est un problème très récurent et à prendre vraiment au sérieux, principalement dans les pays Africains. Plusieurs fois nous avons vu des pays se diviser par ce que le parti perdant des élections réclame une vérification des résultats, ou accuse son opposant d’avoir truqué les élections.  Ces querelles créent par fois des dommages dans le pays et causent même des pertes en vies humaines. Pour remédier à ce problème, nous avons pensé à mettre sur pied un environnement web, qui permettra d’assurer un processus électoral totalement informatise ce qui va assurer une transparence dans les élections et va éviter tous les problèmes cites plus haut.	Globalement nous aurons une plateforme web sur laquelle les candidats, les électeurs et autres pourront observer, voter et aussi créer une élection. 
+
 1.1.	Objectifs
 Dans ce document, nous allons présenter notre projet élection en ligne, ce document est destine a l’equipe de developpeurs qui se chargera d’implementer cette appli a l’occasion de la journee mondiale des telecoms.
+
+1.2. Portée
+Nous avons donné comme nom à notre application Election en ligne. Ce pandand, pas besoin d'être un programmeur professionnel pour pouvoir le gérer, bref pas besoin d'être informaticien. L'organisateur de l'électio, devra juste créer une élection, et y enregistrer des électeurs. les électeurs pourons donc elire par sms, ou par simple clic sur la page web de l'application en ligne. les droits devrons donc lui être accorder pour celà. Les résultats seront alor observés en temps réel sur la page web et à la fin, tout les électeurs devront donc être notifier par un sms sur les résultats de l'élection. Notre principale objectif est donc de garantir la non-répudiation des élection, et d'éviter des conflits unitiles.
+Ce projet étant donc à but accardemic, poura à long terme être lucratif s'il s'intégré dans la sosciété pour faciliter les élections.
+

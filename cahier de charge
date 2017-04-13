@@ -7,7 +7,7 @@ Le problème d’élection est un problème très récurent et à prendre vraime
 Dans ce document, nous allons présenter notre projet élection en ligne, ce document est destine a l’equipe de developpeurs qui se chargera d’implementer cette appli a l’occasion de la journee mondiale des telecoms.
 
 1.2. Portée
-Nous avons donné comme nom à notre application Election en ligne. Cependant, pas besoin d'être un programmeur professionnel pour pouvoir le gérer, bref pas besoin d'être informaticien. L'organisateur de l'électio, devra juste créer une élection, et y enregistrer des électeurs. les électeurs pourons donc elire par sms, ou par simple clic sur la page web de l'application en ligne. les droits devrons donc lui être accorder pour celà. Les résultats seront alor observés en temps réel sur la page web et à la fin, tout les électeurs devront donc être notifier par un sms sur les résultats de l'élection. Notre principale objectif est donc de garantir la non-répudiation des élection, et d'éviter des conflits unitiles.
+Nous avons donné comme nom à notre application Election en ligne. Cependant, pas besoin d'être un programmeur professionnel pour pouvoir le gérer, bref pas besoin d'être informaticien. L'organisateur de l'élection devra juste créer une élection, et y enregistrer des électeurs. Un numero de vote sera donc généré pour un vote créer, ce numero que les électeurs utiliseront pour faire leur choix. Un menu vocal se chargera donc de guider les électeurs à faire leur choix. Les électeur pourons également votés par simple clic sur la page web de l'application en ligne. les droits devrons donc lui être accorder, pour celà à chaque utilisateur sera affecté un identifiant que ce soit sur la plateforme web ou par numero de vote, un électeur ne poura voté qu'une seule fois. Les résultats seront alors observés en temps réel sur la page web et à la fin, tout les électeurs devront donc être notifier par un sms ou un mail sur les résultats de l'élection. Notre principale objectif est donc de garantir la non-répudiation des élection, et d'éviter des conflits unitiles.
 Ce projet étant donc à but accardemic, poura à long terme être lucratif s'il s'intégré dans la sosciété pour faciliter les élections.
 
 1.3. Définitions, achronymes et abréviations
@@ -16,7 +16,7 @@ Ce projet étant donc à but accardemic, poura à long terme être lucratif s'il
 Cour de réseaux intééligent de notre enseignant Mr DJORWE,
 Formation sur VoIp sur youtub, ....
 
-1.5. Aperçu de document
+1.5. Aperçu du document
 Dans ce document, nous présentons de manière détaillée les objectifs de notre travail, ainsi que les fonctionnalitées et le foinctionnement de notre application. 
 
 2. Description générale du logiciel
